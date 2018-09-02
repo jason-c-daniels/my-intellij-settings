@@ -11,5 +11,6 @@
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="SBT.system.in.process" value="true" />
+    <entry key="ide.mac.file.chooser.native" value="false" />
   </component>
 </application>
