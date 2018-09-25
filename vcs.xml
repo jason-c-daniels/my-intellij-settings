@@ -10,6 +10,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="jason-daniels" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hc01.local.net:3000" />
+          <option name="userName" value="jason-c-daniels" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/github/jason-c-daniels" />
