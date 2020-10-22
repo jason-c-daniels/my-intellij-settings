@@ -543,6 +543,22 @@
         <root url="file:///usr/lib/ruby/vendor_ruby/rdoc/generator" />
       </excluded>
     </library>
+    <library name="require (v0.2.7, ruby-2.3.3-p222) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/require-0.2.7/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/require-0.2.7/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/require-0.2.7/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/require-0.2.7/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///var/lib/gems/2.3.0/gems/require-0.2.7/spec" />
+      </excluded>
+    </library>
     <library name="responders (v2.3.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
