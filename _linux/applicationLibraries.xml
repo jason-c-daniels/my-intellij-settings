@@ -229,6 +229,37 @@
         <root url="file:///usr/lib/x86_64-linux-gnu/ruby/vendor_ruby/2.3.0/json/ext" />
       </excluded>
     </library>
+    <library name="json (v2.3.1, ruby-2.3.3-p222) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/java" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/tests" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/tools" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/diagrams" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/java" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/tests" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/tools" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/diagrams" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/references" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/java" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/tests" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/tools" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/diagrams" />
+        <root url="file:///var/lib/gems/2.3.0/gems/json-2.3.1/references" />
+      </excluded>
+    </library>
     <library name="kaminari (v0.17.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -276,6 +307,25 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/share/rubygems-integration/all/gems/licensee-8.0.0/bin" />
+      </excluded>
+    </library>
+    <library name="monitor (v0.2.0, ruby-2.3.3-p222) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/monitor-0.2.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/monitor-0.2.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/monitor-0.2.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/monitor-0.2.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/monitor-0.2.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/monitor-0.2.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///var/lib/gems/2.3.0/gems/monitor-0.2.0/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/monitor-0.2.0/.github" />
       </excluded>
     </library>
     <library name="openid_connect (v0.12.0, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -561,6 +611,22 @@
       <SOURCES>
         <root url="file:///usr/share/rubygems-integration/all/gems/swd-1.0.1/lib" />
       </SOURCES>
+    </library>
+    <library name="titlecase (v0.1.1, ruby-2.3.3-p222) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/titlecase-0.1.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/titlecase-0.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/titlecase-0.1.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/titlecase-0.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///var/lib/gems/2.3.0/gems/titlecase-0.1.1/spec" />
+      </excluded>
     </library>
     <library name="unicode-display_width (v1.4.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
